@@ -1,0 +1,41 @@
+.login-container {
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+h2.text-center.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.login-form {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 550px;
+}
+
+.collaborative-text {
+  font-style: italic;
+  color: #222831;
+  font-weight: 300;
+}
+
+.signup-text {
+  font-size: small;
+}
+
+@media (max-width: 768px) {
+  .login-form {
+    padding: 20px;
+    margin: 20px;
+    width: 90%;
+  }
+}
+
+@media (min-width: 992px) {
+  .login-form {
+    max-width: 500px;
+  }
+}
