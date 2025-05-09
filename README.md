@@ -6,7 +6,8 @@ This repository contains the **frontend** codebase of a group project developed 
 
 **Collaborative** is an online story board platform where users can come together to co-author documents or stories in real-time. It provides rich editing features and version tracking for collaborative writing.
 
-> **Note**: This repository only includes the **frontend** portion of the project. The backend was developed separately as part of the full-stack implementation.
+> **Note**: This repository contains only the **frontend** portion of the full-stack project. The backend was developed separately. Although this was a group project, I led the development and contributed to over 80% of the frontend code. If you're reviewing this repository, there's a high chance most files reflect my direct work.  
+> This is not meant to diminish the efforts of my teammates — everyone contributed to the project in different ways — but I’m highlighting my role to give an honest view of my technical and leadership involvement.
 
 ## Key Features
 
